@@ -1,6 +1,15 @@
 {
+<<<<<<< HEAD
     "name": "testcode1",
     "version": "0.2.0",
+=======
+    "name": "testcode2",
+<<<<<<< HEAD
+    "version": "0.1.2",
+=======
+    "version": "0.2.1",
+>>>>>>> 296b79786b1d6296e3f41dcd2e7652c2148f2487
+>>>>>>> 84317c8722020ac4c2012316d268b693e336beff
     "private": true,
     "dependencies": {
       "@testing-library/jest-dom": "^5.16.2",
